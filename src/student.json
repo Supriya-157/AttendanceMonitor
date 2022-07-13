@@ -1,0 +1,21 @@
+{
+    "first": [
+        {"id":1, "name":"anil", "attendence": null},
+        {"id":2, "name":"Akash", "attendence": null},
+        {"id":3, "name":"Ashok", "attendence": null},
+        {"id":4, "name":"azgar", "attendence": null}
+
+    ],
+    "second": [
+        {"id":1, "name":"bharath", "attendence": null},
+        {"id":2, "name":"bhushan", "attendence": null},
+        {"id":3, "name":"bhuvan", "attendence": null}
+
+    ],
+    "third": [
+        {"id":1, "name":"chandan", "attendence": null},
+        {"id":2, "name":"chingari", "attendence": null},
+        {"id":3, "name":"keerti", "attendence": null}
+
+    ]
+}

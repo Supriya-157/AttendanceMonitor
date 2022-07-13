@@ -1,0 +1,14 @@
+[
+    {"year":"First","subject":["S11","S12","S13"],"studentsList":[{"id":1, "name":"anil", "attendence": null},
+                                                                    {"id":2, "name":"Akash", "attendence": null},
+                                                                    {"id":3, "name":"Ashok", "attendence": null},
+                                                                    {"id":4, "name":"azgar", "attendence": null}
+]},
+{"year":"Second","subject":["S21","S22","S23"],"studentsList":[ {"id":1, "name":"bharath", "attendence": null},
+                                                                {"id":2, "name":"bhushan", "attendence": null},
+                                                                {"id":3, "name":"bhuvan", "attendence": null}
+]},
+{"year":"Third","subject":["S31","S32","S33"],"studentsList": [ {"id":1, "name":"chandan", "attendence": null},
+                                                                {"id":2, "name":"chingari", "attendence": null},
+                                                                {"id":3, "name":"keerti", "attendence": null}
+]}]
